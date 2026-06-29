@@ -1,77 +1,116 @@
 <div align="center">
 
-# Hi there! 👋 I'm Ramya Sri
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hey, I'm Ramya Sri!
 
-### 🎓 B.Tech in Artificial Intelligence & Data Science
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science+Student;AI+%7C+Machine+Learning+%7C+Data+Analytics;Building+Intelligent+Applications;Always+Learning+%F0%9F%9A%80" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Building+AI-Powered+Applications;Data+Analytics+%7C+Computer+Vision;Always+Learning+Something+New+🚀" />
-
-<p>
-Passionate about transforming ideas into intelligent solutions through
-Artificial Intelligence, Machine Learning, and Data Science.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-✨ Passionate about solving real-world problems using **Artificial Intelligence** and **Data Science**
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
+🎓 **B.Tech in Artificial Intelligence & Data Science**
 
-🌱 Currently exploring **AI Agents, Generative AI, Deep Learning, and Intelligent Automation**
+💙 Passionate about creating intelligent systems that solve real-world problems.
 
-💡 Interested in **Machine Learning, Data Science, Computer Vision, NLP, and Data Analytics**
+🌱 Currently exploring
 
-🚀 Building **AI-powered applications, machine learning solutions, and interactive dashboards**
+- 🤖 AI Agents
+- ✨ Generative AI
+- 🧠 Deep Learning
+- ⚡ Intelligent Automation
 
-📚 Always learning new technologies and improving problem-solving skills
+💡 Interested in
 
-🎯 Goal: To build impactful AI solutions that create meaningful real-world value.
+- Machine Learning
+- Data Science
+- Computer Vision
+- NLP
+- Data Analytics
 
----
+🚀 Building
 
-# 💻 Tech Stack
+- AI-powered Applications
+- Interactive Dashboards
+- Machine Learning Projects
+- Data-driven Solutions
 
-### 👨‍💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
-
----
-
-### 🤖 AI & Data Science
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-00C853?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-5C6BC0?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI-FF4081?style=for-the-badge)
+📚 Always learning new technologies and sharpening my problem-solving skills.
 
 ---
 
-### 📊 Data Analytics
+# 🛠 Tech Arsenal
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
+</p>
+
+### AI • ML • Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
+</p>
+
+`Machine Learning` • `Deep Learning` • `Computer Vision` • `NLP`
 
 ---
 
-# 🌟 Featured Projects
+### Development
 
-| 🚀 Project | Description |
-|------------|-------------|
-| 🎨 AI Air Canvas | Draw using hand gestures with Computer Vision |
-| 💳 Credit Card Fraud Detection | Machine Learning fraud detection system |
-| 😊 AI Sentiment Analysis | Streamlit dashboard for sentiment analysis |
-| 📊 Student Performance EDA | Data analysis and visualization |
-| 🌐 Web Scraping | Python automation for web data extraction |
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
+</p>
+
+---
+
+### Data Analytics
+
+- 📊 Pandas
+- 🔢 NumPy
+- 📈 Matplotlib
+- 📉 Power BI
+- 📑 Excel
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|----------|-------------|
+| 🎨 **AI Air Canvas** | Draw virtually using hand gestures and Computer Vision |
+| 💳 **Credit Card Fraud Detection** | Detect fraudulent transactions using Machine Learning |
+| 😊 **AI Sentiment Analysis Dashboard** | Interactive Streamlit dashboard for sentiment analysis |
+| 📊 **Student Performance EDA** | Exploratory Data Analysis with insightful visualizations |
+| 🌐 **Web Scraping Automation** | Automated web data extraction using Python |
+
+</div>
+
+---
+
+# 🌟 Currently Learning
+
+```text
+🤖 AI Agents
+████████████████████ 100%
+
+🧠 Deep Learning
+██████████████████░░ 90%
+
+✨ Generative AI
+████████████████░░░░ 80%
+
+📊 Data Analytics
+███████████████████░ 95%
+```
 
 ---
 
@@ -89,7 +128,7 @@ Artificial Intelligence, Machine Learning, and Data Science.
 
 <p align="center">
 
-<a href="im-ramyasri">
+<a href="[im-ramyasri](https://www.linkedin.com/in/im-ramyasri/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -107,11 +146,12 @@ Artificial Intelligence, Machine Learning, and Data Science.
 
 <div align="center">
 
-## ✨ "Turning Data into Insights and Ideas into Intelligent Solutions."
+## ✨ Turning Data into Insights. Ideas into Intelligence. 🚀
 
-⭐ Thank you for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=im-ramyasri&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
-<!--
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F5FF&height=120&section=footer"/>
 **im-ramyasri/im-ramyasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
