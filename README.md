@@ -1,114 +1,117 @@
-<h1 align="center">Hi 👋, I'm Ramya Sri</h1>
+<div align="center">
 
-<h3 align="center">
-Artificial Intelligence & Data Science Student | AI Enthusiast | Aspiring Data Analyst
-</h3>
+# Hi there! 👋 I'm Ramya Sri
 
-<p align="center">
-Passionate about leveraging Artificial Intelligence and Data Science to solve real-world problems through innovative, data-driven solutions.
+### 🎓 B.Tech in Artificial Intelligence & Data Science
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Building+AI-Powered+Applications;Data+Analytics+%7C+Computer+Vision;Always+Learning+Something+New+🚀" />
+
+<p>
+Passionate about transforming ideas into intelligent solutions through
+Artificial Intelligence, Machine Learning, and Data Science.
 </p>
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+# 🚀 About Me
+
+✨ Passionate about solving real-world problems using **Artificial Intelligence** and **Data Science**
 
 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
 
-💡 Passionate about **Artificial Intelligence, Machine Learning, Data Analytics, Computer Vision, and Generative AI**
+🌱 Currently exploring **AI Agents, Generative AI, Deep Learning, and Intelligent Automation**
 
-🌱 Currently exploring **AI Agents, Intelligent Automation, Large Language Models (LLMs), and Data Visualization**
+💡 Interested in **Machine Learning, Data Science, Computer Vision, NLP, and Data Analytics**
 
-🚀 I enjoy building AI-powered applications, analyzing data, and continuously learning emerging technologies.
+🚀 Building **AI-powered applications, machine learning solutions, and interactive dashboards**
+
+📚 Always learning new technologies and improving problem-solving skills
+
+🎯 Goal: To build impactful AI solutions that create meaningful real-world value.
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
 ### 👨‍💻 Languages
-- Python
-- SQL
-- Java
-- C
 
-### 🤖 Artificial Intelligence & Machine Learning
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing (NLP)
-- OpenCV
-- Scikit-learn
-- TensorFlow
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+
+---
+
+### 🤖 AI & Data Science
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-00C853?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-5C6BC0?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF4081?style=for-the-badge)
+
+---
 
 ### 📊 Data Analytics
-- Pandas
-- NumPy
-- Matplotlib
-- Power BI
-- Excel
 
-### 🌐 Web Technologies
-- HTML
-- CSS
-- JavaScript
-- Streamlit
-
-### ⚙️ Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Google Colab
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
 
 ---
 
-## 🚀 Featured Projects
+# 🌟 Featured Projects
 
-🎨 **AI Air Canvas**
-> Draw on a virtual canvas using hand gestures powered by Computer Vision.
-
-💳 **Credit Card Fraud Detection**
-> Machine Learning model for detecting fraudulent credit card transactions.
-
-😊 **AI Sentiment Analysis Dashboard**
-> Interactive Streamlit dashboard for sentiment analysis and visualization.
-
-📊 **Student Performance Analysis**
-> Exploratory Data Analysis to discover insights from student performance data.
-
-🌐 **Web Scraping Automation**
-> Python-based web scraping application for automated data collection.
+| 🚀 Project | Description |
+|------------|-------------|
+| 🎨 AI Air Canvas | Draw using hand gestures with Computer Vision |
+| 💳 Credit Card Fraud Detection | Machine Learning fraud detection system |
+| 😊 AI Sentiment Analysis | Streamlit dashboard for sentiment analysis |
+| 📊 Student Performance EDA | Data analysis and visualization |
+| 🌐 Web Scraping | Python automation for web data extraction |
 
 ---
 
-## 📊 GitHub Statistics
+# 🏆 Certifications
+
+🏅 IBM SkillsBuild – AI Automation & Intelligent Solutions Internship
+
+🏅 IBM SkillsBuild – Foundations of Generative AI
+
+🏅 CodeAlpha Internship
+
+---
+
+# 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=im-ramyasri&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=im-ramyasri&layout=compact&theme=tokyonight" />
+<a href="im-ramyasri">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:pichukaramyasri@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/im-ramyasri">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
-## 🌐 Connect with Me
+<div align="center">
 
-💼 **LinkedIn:** https://linkedin.com/in/im-ramyasri
+## ✨ "Turning Data into Insights and Ideas into Intelligent Solutions."
 
-💻 **GitHub:** https://github.com/im-ramyasri
+⭐ Thank you for visiting my profile!
 
-📧 **Email:** pichukaramyasri@gmail.com
-
----
-
-<p align="center">
-✨ <i>"Learning, Building, and Innovating with Artificial Intelligence & Data Science."</i> ✨
-</p>
-
-<p align="center">
-Thanks for visiting my profile! ⭐ Feel free to explore my repositories and connect with me.
-</p>
+</div>
 <!--
 **im-ramyasri/im-ramyasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
