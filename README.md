@@ -1,68 +1,73 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hey, I'm Ramya Sri!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Ramya Sri
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science+Student;AI+%7C+Machine+Learning+%7C+Data+Analytics;Building+Intelligent+Applications;Always+Learning+%F0%9F%9A%80" />
+### 🎓 Artificial Intelligence & Data Science Student
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Enthusiast;Machine+Learning+Developer;Data+Analytics+Explorer;Building+AI-Powered+Solutions;Always+Learning+🚀" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Science-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge"/>
+</p>
 
 </div>
 
+## 💫 About Me
+
+```yaml
+Name: Ramya Sri
+
+Education:
+  - B.Tech in Artificial Intelligence & Data Science
+
+Current Focus:
+  - AI Agents
+  - Generative AI
+  - Deep Learning
+  - Intelligent Automation
+
+Interests:
+  - Machine Learning
+  - Data Science
+  - Computer Vision
+  - Natural Language Processing
+  - Data Analytics
+
+Building:
+  - AI-powered Applications
+  - Interactive Dashboards
+  - Machine Learning Projects
+
+Motto: "Turning data into intelligent solutions."
+```
 ---
 
-# 💫 About Me
+# ⚡ Tech Stack
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-🎓 **B.Tech in Artificial Intelligence & Data Science**
-
-💙 Passionate about creating intelligent systems that solve real-world problems.
-
-🌱 Currently exploring
-
-- 🤖 AI Agents
-- ✨ Generative AI
-- 🧠 Deep Learning
-- ⚡ Intelligent Automation
-
-💡 Interested in
-
-- Machine Learning
-- Data Science
-- Computer Vision
-- NLP
-- Data Analytics
-
-🚀 Building
-
-- AI-powered Applications
-- Interactive Dashboards
-- Machine Learning Projects
-- Data-driven Solutions
-
-📚 Always learning new technologies and sharpening my problem-solving skills.
-
----
-
-# 🛠 Tech Arsenal
-
-### Languages
+### 👨‍💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
 </p>
 
-### AI • ML • Data Science
+### 🤖 AI & Data Science
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
 </p>
 
-`Machine Learning` • `Deep Learning` • `Computer Vision` • `NLP`
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+</p>
 
----
-
-### Development
+### 🌐 Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
@@ -70,121 +75,180 @@
 
 ---
 
-### Data Analytics
+# 🚀 Featured Projects
 
-- 📊 Pandas
-- 🔢 NumPy
-- 📈 Matplotlib
-- 📉 Power BI
-- 📑 Excel
+<div align="center">
+
+### 💡 A collection of AI, Machine Learning, Data Analytics, and Computer Vision projects built to solve real-world problems.
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
-
 ## 🎨 AI Air Canvas
 
-> ✨ A Computer Vision application that enables users to draw on a virtual canvas using real-time hand gesture recognition powered by OpenCV and MediaPipe.
+> **Draw in the air using your hand gestures!**  
+> A Computer Vision application that enables users to draw on a virtual canvas using real-time hand tracking with OpenCV and MediaPipe.
 
-**🛠️ Tech Stack:** Python • OpenCV • MediaPipe • NumPy
+### ✨ Highlights
+- 🖐️ Hand Gesture Recognition
+- 🎨 Virtual Drawing Canvas
+- 📷 Real-time Webcam Processing
+- ⚡ Smooth Drawing Experience
 
-🔗 **Repository:** https://github.com/im-ramyasri/AI-Air-Canvas
+**🛠️ Tech Stack**
+
+`Python` • `OpenCV` • `MediaPipe` • `NumPy`
+
+### 🔗 Repository
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/im-ramyasri/AI-Air-Canvas)
 
 ---
 
 ## 💳 Credit Card Fraud Detection
 
-> 🔍 Machine Learning model designed to identify fraudulent credit card transactions using data preprocessing, feature engineering, and classification algorithms.
+> **Detect fraudulent transactions using Machine Learning.**  
+> Built a predictive model capable of identifying fraudulent credit card transactions through data preprocessing, feature engineering, and classification algorithms.
 
-**🛠️ Tech Stack:** Python • Scikit-learn • Pandas • NumPy • Matplotlib
+### ✨ Highlights
 
-🔗 **Repository:** https://github.com/im-ramyasri/Credit-Card-Fraud-Detection
+- 📊 Data Cleaning
+- 🤖 Machine Learning Models
+- 📈 Model Evaluation
+- 📉 Fraud Detection Insights
+
+**🛠️ Tech Stack**
+
+`Python` • `Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib`
+
+### 🔗 Repository
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/im-ramyasri/Credit-Card-Fraud-Detection)
 
 ---
 
 ## 😊 AI Sentiment Analysis Dashboard
 
-> 💬 An interactive Streamlit dashboard that performs sentiment analysis on textual data and visualizes insights using charts and word clouds.
+> **Transform text into meaningful insights.**  
+> An interactive Streamlit dashboard that analyzes sentiments from textual data and presents intuitive visualizations including charts and word clouds.
 
-**🛠️ Tech Stack:** Python • Streamlit • NLTK • Pandas • Matplotlib
+### ✨ Highlights
 
-🔗 **Repository:** https://github.com/im-ramyasri/CodeAlpha_SentimentAnalysis
+- 😊 Sentiment Classification
+- 📊 Interactive Dashboard
+- ☁️ Word Cloud Visualization
+- 📈 Insightful Analytics
+
+**🛠️ Tech Stack**
+
+`Python` • `Streamlit` • `NLTK` • `Pandas` • `Matplotlib`
+
+### 🔗 Repository
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/im-ramyasri/CodeAlpha_SentimentAnalysis)
 
 ---
 
 ## 📊 Student Performance EDA
 
-> 📈 Comprehensive exploratory data analysis on student performance using **Python, Pandas, NumPy, and Matplotlib**, uncovering patterns, trends, and insights through meaningful visualizations to understand factors affecting academic performance.
+> **Discover hidden insights from educational data.**  
+> Performed comprehensive Exploratory Data Analysis to uncover trends, patterns, and relationships affecting student academic performance through rich visualizations.
 
-**🛠️ Tech Stack:** Python • Pandas • NumPy • Matplotlib • Jupyter Notebook
+### ✨ Highlights
 
-🔗 **Repository:** https://github.com/im-ramyasri/CodeAlpha_StudentPerformanceEDA
+- 📈 Exploratory Data Analysis
+- 📊 Statistical Visualization
+- 📚 Educational Insights
+- 🔍 Feature Analysis
+
+**🛠️ Tech Stack**
+
+`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Jupyter Notebook`
+
+### 🔗 Repository
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/im-ramyasri/CodeAlpha_StudentPerformanceEDA)
 
 ---
 
 ## 🌐 Web Scraping Automation
 
-> 🌍 Python-based web scraping project that automates data extraction, cleaning, and preprocessing from websites for further analysis.
+> **Automating data collection from the web.**  
+> A Python-based web scraping project that extracts, cleans, and organizes data from websites for analysis and automation workflows.
 
-**🛠️ Tech Stack:** Python • BeautifulSoup • Requests • Pandas
+### ✨ Highlights
 
-🔗 **Repository:** https://github.com/im-ramyasri/CodeAlpha_WebScraping
+- 🌍 Web Data Extraction
+- ⚙️ Automated Scraping
+- 🧹 Data Cleaning
+- 📦 Structured Dataset Generation
 
----
+**🛠️ Tech Stack**
 
-### 🌟 More exciting AI & Data Science projects are on the way...
+`Python` • `BeautifulSoup` • `Requests` • `Pandas`
 
+### 🔗 Repository
 
----
-
-# 🌟 Currently Learning
-
-```text
-🤖 AI Agents
-████████████████████ 100%
-
-🧠 Deep Learning
-██████████████████░░ 90%
-
-✨ Generative AI
-████████████████░░░░ 80%
-
-📊 Data Analytics
-███████████████████░ 95%
-```
-
----
-
-# 🏆 Certifications
-
-🏅 IBM SkillsBuild – AI Automation & Intelligent Solutions Internship
-
-🏅 IBM SkillsBuild – Foundations of Generative AI
-
-🏅 CodeAlpha Internship
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/im-ramyasri" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:pichukaramyasri@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-
-  <a href="https://github.com/im-ramyasri" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/im-ramyasri/CodeAlpha_WebScraping)
 
 ---
 
 <div align="center">
+
+### 🌟 More AI, Machine Learning & Data Science projects coming soon!
+
+*"Learning • Building • Innovating"*
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+```text
+🤖 AI Agents               ████████████████████ 100%
+
+🧠 Deep Learning           ██████████████████░░ 90%
+
+✨ Generative AI           █████████████████░░░ 85%
+
+📊 Data Analytics          ███████████████████░ 95%
+
+⚡ Intelligent Automation  ████████████████░░░░ 80%
+```
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/im-ramyasri">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pichukaramyasri@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/im-ramyasri">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💙 "Turning Data into Insights • Building AI for Tomorrow"
+
+<img src="https://komarev.com/ghpvc/?username=im-ramyasri&style=for-the-badge&color=blueviolet"/>
+
+⭐ Thanks for visiting my profile!
+
+</div>
 
 ## ✨ Turning Data into Insights. Ideas into Intelligence. 🚀
 
