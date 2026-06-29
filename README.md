@@ -128,7 +128,7 @@
 
 **🛠️ Tech Stack:** Python • BeautifulSoup • Requests • Pandas
 
-🔗 **Repository:** *Coming Soon*
+🔗 **Repository:** https://github.com/im-ramyasri/CodeAlpha_WebScraping
 
 ---
 
