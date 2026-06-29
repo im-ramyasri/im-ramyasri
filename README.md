@@ -242,20 +242,10 @@ Motto: "Turning data into intelligent solutions."
 
 <div align="center">
 
-## 💙 "Turning Data into Insights • Building AI for Tomorrow"
+### 🌟 More AI, Machine Learning & Data Science projects coming soon!
 
-<img src="https://komarev.com/ghpvc/?username=im-ramyasri&style=for-the-badge&color=blueviolet"/>
-
-⭐ Thanks for visiting my profile!
+*"Learning • Building • Innovating"*
 
 </div>
-
-## ✨ Turning Data into Insights. Ideas into Intelligence. 🚀
-
-<img src="https://komarev.com/ghpvc/?username=im-ramyasri&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F5FF&height=120&section=footer"/>
 
 
