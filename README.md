@@ -80,12 +80,14 @@ Passionate about leveraging Artificial Intelligence and Data Science to solve re
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=im-ramyasri&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=im-ramyasri&show_icons=true&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-ramyasri&layout=compact&theme=tokyonight" height="170"/>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=im-ramyasri&layout=compact&theme=tokyonight" />
 </p>
 
 ---
