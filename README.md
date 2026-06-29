@@ -82,17 +82,58 @@
 
 # 🚀 Featured Projects
 
-<div align="center">
+## 🎨 AI Air Canvas
 
-| Project | Description |
-|----------|-------------|
-| 🎨 **AI Air Canvas** | Draw virtually using hand gestures and Computer Vision |
-| 💳 **Credit Card Fraud Detection** | Detect fraudulent transactions using Machine Learning |
-| 😊 **AI Sentiment Analysis Dashboard** | Interactive Streamlit dashboard for sentiment analysis |
-| 📊 **Student Performance EDA** | Exploratory Data Analysis with insightful visualizations |
-| 🌐 **Web Scraping Automation** | Automated web data extraction using Python |
+> ✨ A Computer Vision application that enables users to draw on a virtual canvas using real-time hand gesture recognition powered by OpenCV and MediaPipe.
 
-</div>
+**🛠️ Tech Stack:** Python • OpenCV • MediaPipe • NumPy
+
+🔗 **Repository:** https://github.com/im-ramyasri/AI-Air-Canvas
+
+---
+
+## 💳 Credit Card Fraud Detection
+
+> 🔍 Machine Learning model designed to identify fraudulent credit card transactions using data preprocessing, feature engineering, and classification algorithms.
+
+**🛠️ Tech Stack:** Python • Scikit-learn • Pandas • NumPy • Matplotlib
+
+🔗 **Repository:** https://github.com/im-ramyasri/Credit-Card-Fraud-Detection
+
+---
+
+## 😊 AI Sentiment Analysis Dashboard
+
+> 💬 An interactive Streamlit dashboard that performs sentiment analysis on textual data and visualizes insights using charts and word clouds.
+
+**🛠️ Tech Stack:** Python • Streamlit • NLTK • Pandas • Matplotlib
+
+🔗 **Repository:** https://github.com/im-ramyasri/CodeAlpha_SentimentAnalysis
+
+---
+
+## 📊 Student Performance EDA
+
+> 📈 Comprehensive exploratory data analysis on student performance using **Python, Pandas, NumPy, and Matplotlib**, uncovering patterns, trends, and insights through meaningful visualizations to understand factors affecting academic performance.
+
+**🛠️ Tech Stack:** Python • Pandas • NumPy • Matplotlib • Jupyter Notebook
+
+🔗 **Repository:** https://github.com/im-ramyasri/CodeAlpha_StudentPerformanceEDA
+
+---
+
+## 🌐 Web Scraping Automation
+
+> 🌍 Python-based web scraping project that automates data extraction, cleaning, and preprocessing from websites for further analysis.
+
+**🛠️ Tech Stack:** Python • BeautifulSoup • Requests • Pandas
+
+🔗 **Repository:** *Coming Soon*
+
+---
+
+### 🌟 More exciting AI & Data Science projects are on the way...
+
 
 ---
 
